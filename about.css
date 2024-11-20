@@ -27,7 +27,7 @@ p {
   top: 0px;
   right: 0px;
   visibility: hidden;
-  opacity: 0.7;
+  opacity: 0.6;
  }
  .about:hover .caption {
   visibility: visible;
